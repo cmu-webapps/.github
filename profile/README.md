@@ -11,7 +11,7 @@ homework and course projects. You will also get access to
 repositories with sample code discussed in class.
 
 To get access to repos in this organization, enrolled students must submit
-[https://www.cmu-webapps.org/quiz0](Quiz#0).  (This link should be active
+[Quiz #0](https://www.cmu-webapps.org/quiz0).  (This link should be active
 on the first day of classes.)
 
 After you have access, you will be able to scroll down this page
