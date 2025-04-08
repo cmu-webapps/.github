@@ -3,7 +3,7 @@
 This GitHub organization is used by the Web Application Development course at
 Carnegie Mellon University.
 
-We have no public repositories (other the .github repo with this profile information).
+We have no public repositories (other than the .github repo with this profile information).
 
 If you are a student taking the course, you will be given access to
 private repositories in which you will develop your
